@@ -70,5 +70,5 @@ ch = ip.nextInt();
 }while(ch!=2);  
   
 dout.close();  
-s.close();  
+s.close();  //closing the connection
 }}  
